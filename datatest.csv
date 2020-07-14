@@ -1,0 +1,6 @@
+Glucose,BloodPressure,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
+107,74,0,29.6,0,31,1
+103,30,83,43.3,0.183,33,0
+147,76,0,39.4,0.257,43,1
+122,78,0,27.6,0.512,45,0
+138,75,0,33.2,0.42,35,0
